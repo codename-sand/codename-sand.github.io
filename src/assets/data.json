@@ -1,0 +1,165 @@
+{
+    "list": [
+        {
+            "thumb": 23,
+            "title": "안랩 X CleverOps",
+            "link": "https://codename-sand.github.io/cleverOps",
+            "description": "한국 서부 발전소 탐지 시스템 관리자 웹 사이트 UI개발",
+            "tag": "React · Typescript · SCSS · API · Figma"
+        },
+        {
+            "thumb": 22,
+            "title": "하나은행 ATM 리뉴얼",
+            "link": "hana-bank",
+            "description": "하나은행 ATM UI 및 엔진 개발",
+            "tag": "HTML5 · CSS3 · JS"
+        },
+        {
+            "thumb": 21,
+            "title": "우리은행 ATM",
+            "link": "woori-bank",
+            "description": "우리은행 ATM 광고부 및 관리자모드 엔진 통합",
+            "tag": "HTML5 · CSS3 · JS"
+        },
+        {
+            "thumb": 20,
+            "title": "농협 STM",
+            "link": "nh-bank",
+            "description": "농협 STM UI 개발",
+            "tag": "HTML5 · CSS3 · JS"
+        },
+        {
+            "thumb": 19,
+            "title": "미담 건축사무소",
+            "link": "https://codename-sand.github.io/midam",
+            "description": "미담 건축사무소 웹 사이트 리뉴얼 [디자인 / 퍼블리싱]",
+            "tag": "UI · UX · HTML5 · CSS3 · JS"
+        },
+        {
+            "thumb": 18,
+            "title": "더 현대 셀프서비스 키오스크",
+            "link": "theHyundai-selfservice",
+            "description": "더 현대 셀프서비스 키오스크 UI개발",
+            "tag": "HTML5 · CSS3 · JS"
+        },
+        {
+            "thumb": 17,
+            "title": "POTS",
+            "link": "https://codename-sand.github.io/pots",
+            "description": "POTS(ERP) 웹 사이트 [디자인 / 퍼블리싱]",
+            "tag": "UI · UX · HTML5 · CSS3 · JS"
+        },
+        {
+            "thumb": 16,
+            "title": "중소기업복지지원단",
+            "link": "https://codename-sand.github.io/smaller-businesses",
+            "description": "중소기업복지지원단 웹 사이트 [디자인 / 퍼블리싱]",
+            "tag": "UI · UX · HTML5 · CSS3 · JS"
+        },
+        {
+            "thumb": 15,
+            "title": "부동산",
+            "link": "https://codename-sand.github.io/real-estate",
+            "description": "부동산 웹 사이트 [디자인 / 퍼블리싱]",
+            "tag": "UI · UX · HTML5 · CSS3 · JS"
+        },
+        {
+            "thumb": 14,
+            "title": "BYFI Makerslab",
+            "link": "https://codename-sand.github.io/byfi-makerslab",
+            "description": "BYFI Makerslab 웹 사이트 [디자인 / 퍼블리싱]",
+            "tag": "UI · UX · HTML5 · CSS3 · JS"
+        },
+        {
+            "thumb": 13,
+            "title": "모두다",
+            "link": "moduda",
+            "description": "모두다 APP 디자인",
+            "tag": "UI · UX  · Sketch · XD"
+        },
+        {
+            "thumb": 12,
+            "title": "오라이 매니저",
+            "link": "orai/manager",
+            "description": "오라이 Manager APP 디자인",
+            "tag": "UI · UX  · Sketch · XD"
+        },
+        {
+            "thumb": 11,
+            "title": "오라이",
+            "link": "orai",
+            "description": "오라이 B2C APP 디자인",
+            "tag": "UI · UX  · Sketch · XD"
+        },
+        {
+            "thumb": 10,
+            "title": "한국기업복지지도사협회",
+            "link": "https://codename-sand.github.io/welfare-instructor",
+            "description": "한국기업복지지도사협회 웹 사이트 [디자인 / 퍼블리싱]",
+            "tag": "UI · UX  · HTML5 · CSS3 · JS"
+        },
+        {
+            "thumb": 9,
+            "title": "e단비",
+            "link": "e-danbi",
+            "description": "e단비 APP 디자인",
+            "tag": "UI · UX  · Sketch · XD"
+        },
+        {
+            "thumb": 8,
+            "title": "광주제2순환도로",
+            "link": "https://codename-sand.github.io/gwangju-highway",
+            "description": "광주제2순환도로 웹 사이트 리뉴얼 [디자인 / 퍼블리싱]",
+            "tag": "UI · UX  · HTML5 · CSS3 · JS"
+        },
+        {
+            "thumb": 7,
+            "title": "(주)한국기업복지",
+            "link": "https://codename-sand.github.io/corporate-welfare",
+            "description": "한국기업복지 웹 사이트 [디자인 / 퍼블리싱]",
+            "tag": "UI · UX  · HTML5 · CSS3 · JS"
+        },
+        {
+            "thumb": 6,
+            "title": "e복지 VIP",
+            "link": "e-welfare/vip",
+            "description": "e복지(기업복지 플랫폼) VIP 전용 APP 디자인",
+            "tag": "UI · UX  · Sketch · XD"
+        },
+        {
+            "thumb": 5,
+            "title": "e복지 Admin",
+            "link": "e-welfare/admin",
+            "description": "e복지(기업복지 플랫폼) 지도사 전용 APP 디자인",
+            "tag": "UI · UX  · Sketch · XD"
+        },
+        {
+            "thumb": 4,
+            "title": "e복지",
+            "link": "e-welfare",
+            "description": "e복지(기업복지 플랫폼) APP 디자인",
+            "tag": "UI · UX  · Sketch · XD"
+        },
+        {
+            "thumb": 3,
+            "title": "e복지",
+            "link": "https://codename-sand.github.io/e-welfare",
+            "description": "e복지(기업복지 플랫폼) 웹 사이트 [디자인 / 퍼블리싱]",
+            "tag": "UI · UX  · HTML5 · CSS3 · JS"
+        },
+        {
+            "thumb": 2,
+            "title": "떡담 | 메고지고 리뉴얼",
+            "link": "https://codename-sand.github.io/ricepie",
+            "description": "떡담 웹 사이트 리뉴얼 [디자인 / 퍼블리싱]",
+            "tag": "UI · UX  · HTML5 · CSS3 · JS"
+        },
+        {
+            "thumb": 1,
+            "title": "Bookingzone",
+            "link": "https://codename-sand.github.io/bookingzone",
+            "description": "골프 부킹 웹 사이트 [디자인 / 퍼블리싱]",
+            "tag": "UI · UX  · HTML5 · CSS3 · JS"
+        }
+    ]
+}
